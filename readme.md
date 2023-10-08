@@ -34,6 +34,8 @@ python app.py <file_path>
 * [YARA](https://virustotal.github.io/yara/)
 * [Yextend](https://github.com/BayshoreNetworks/yextend)
 * [Awesome YARA](https://github.com/InQuest/awesome-yara)
+* [Writing better Yara rules in 2023…](https://www.hexacorn.com/blog/2023/08/26/writing-better-yara-rules-in-2023/)
+* [Yara Scan Service](https://github.com/cocaman/yara-scan-service)
 * [Neo23x0 signature-base](https://github.com/Neo23x0/signature-base)
     * [Nextron Systems](https://www.nextron-systems.com/)
     * Comparison table [here](https://www.nextron-systems.com/compare-our-scanners/)
