@@ -35,6 +35,7 @@ python app.py <file_path>
 * [Yextend](https://github.com/BayshoreNetworks/yextend)
 * [Awesome YARA](https://github.com/InQuest/awesome-yara)
 * [Writing better Yara rules in 2023…](https://www.hexacorn.com/blog/2023/08/26/writing-better-yara-rules-in-2023/)
+* [YARAify by ABUSE](https://yaraify.abuse.ch/)
 * [Yara Scan Service](https://github.com/cocaman/yara-scan-service)
 * [Florian Roth Neo23x0 ](https://github.com/Neo23x0)
     * [Neo23x0 signature-base](https://github.com/Neo23x0/signature-base)
