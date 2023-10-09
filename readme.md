@@ -39,6 +39,6 @@ python app.py <file_path>
 * [Florian Roth Neo23x0 ](https://github.com/Neo23x0)
     * [Neo23x0 signature-base](https://github.com/Neo23x0/signature-base)
     * [yarGen](https://github.com/Neo23x0/yarGen)
-        * [Nextron Systems](https://www.nextron-systems.com/)
+    * [Nextron Systems](https://www.nextron-systems.com/)
         * Comparison table [here](https://www.nextron-systems.com/compare-our-scanners/)
         * [Forensic Scanner Decision Tree](https://twitter.com/cyb3rops/status/1361980419223207936)
